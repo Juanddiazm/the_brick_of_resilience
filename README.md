@@ -1,7 +1,8 @@
 # the_brick_of_resilience
 
-A new Flutter project.
+This is an app that helps you keep track of your brick of resilience. Based on the curse "Soft Skills para Recuperarte" by Francisco Grillo Arciniegas.
 
+Using the questionnaire as a guide I created this app.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
