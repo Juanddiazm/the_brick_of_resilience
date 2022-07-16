@@ -1,0 +1,103 @@
+{
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "homeTitle": "The bricks of the resilience",
+  "@homeTitle": {
+    "description": "The title of the home page"
+  },
+  "continueQuestionnaireTitle": "Continue Questionnaire",
+  "@continueQuestionnaireTitle": {
+    "description": "The title of the continue questionnaire page"
+  },
+  "startQuestionnaireTitle": "Create Questionnaire",
+  "@startQuestionnaireTitle": {
+    "description": "The title of the create questionnaire page"
+  },
+  "consultResultsTitle": "Consult Results",
+  "firstOption": "Completely false",
+  "@firstOption": {
+    "description": "The first option of the question"
+  },
+  "secondOption": "Minimally true",
+  "@secondOption": {
+    "description": "The second option of the question"
+  },
+  "thirdOption": "Moderately true",
+  "@thirdOption": {
+    "description": "The third option of the question"
+  },
+  "fourthOption": "Usually true",
+  "@fourthOption": {
+    "description": "The fourth option of the question"
+  },
+  "fifthOption": "Completely true",
+  "@fifthOption": {
+    "description": "The fifth option of the question"
+  },
+  "next": "Next",
+  "@next": {
+    "description": "The next button"
+  },
+  "back": "Back",
+  "@back": {
+    "description": "The back button"
+  },
+  "finish": "Finish",
+  "@finish": {
+    "description": "The finish button"
+  },
+  "skill": "Skill",
+  "@skill": {
+    "description": "The skill label"
+  },
+  "score": "Score",
+  "@score": {
+    "description": "The score label"
+  },
+  "qualification": "Qualification",
+  "@qualification": {
+    "description": "The qualification label"
+  },
+  "controlOfEmotions": "Control of emotions",
+  "@controlOfEmotions": {
+    "description": "The control of emotions label"
+  },
+  "selfDiscipline": "Self-discipline",
+  "@selfDiscipline": {
+    "description": "The self-discipline label"
+  },
+  "optimism": "Optimism",
+  "@optimism": {
+    "description": "The optimism label"
+  },
+  "analysisOfCauses": "Analysis of causes",
+  "@analysisOfCauses": {
+    "description": "The analysis of causes label"
+  },
+  "empathy": "Empathy",
+  "@empathy": {
+    "description": "The empathy label"
+  },
+  "selfEfficacy": "Self-efficacy",
+  "@selfEfficacy": {
+    "description": "The self-efficacy label"
+  },
+  "overcomeFears": "Overcome fears",
+  "@overcomeFears": {
+    "description": "The overcome fears label"
+  },
+  "aboveAverage": "Above average",
+  "@aboveAverage": {
+    "description": "The above average label"
+  },
+  "average": "Average",
+  "@average": {
+    "description": "The average label"
+  },
+  "belowAverage": "Below average",
+  "@belowAverage": {
+    "description": "The below average label"
+  }
+}

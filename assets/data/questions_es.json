@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Cuando tengo que resolver un problema, confío en mis instintos y adopto la primera solución que se me ocurre.",
+      "type": "ANALYSIS_OF_CAUSES_-"
+    },
+    {
+      "id": 2,
+      "text": "Sin importar si planifico con anticipación una discusión con mi jefe, un colega, mi pareja o mis hijos, igual me descubro a mí mismo actuando de manera emocional.",
+      "type": "CONTROL_OF_EMOTIONS_-"
+    },
+    {
+      "id": 3,
+      "text": "Me preocupa mi salud en el futuro.",
+      "type": "OPTIMISM_-"
+    },
+    {
+      "id": 4,
+      "text": "Soy muy bueno cancelando cualquier cosa que me distraiga de la tarea de la que me estoy dedicando.",
+      "type": "SELF_DISCIPLINE_+"
+    },
+    {
+      "id": 5,
+      "text": "Si mi primera solución no funciona, tengo la capacidad de dar un paso atrás y seguir intentando diferentes soluciones hasta encontrar una que funcione.",
+      "type": "SELF_EFFICACY_+"
+    },
+    {
+      "id": 6,
+      "text": "Soy una persona curiosa.",
+      "type": "OVERCOME_FEARS_+"
+    },
+    {
+      "id": 7,
+      "text": "No puedo aprovechar las emociones positivas para ayudarme a concentrarme en una tarea.",
+      "type": "CONTROL_OF_EMOTIONS_-"
+    },
+    {
+      "id": 8,
+      "text": "Soy del tipo de persona a la que le gusta probar nuevas cosas.",
+      "type": "OVERCOME_FEARS_+"
+    },
+    {
+      "id": 9,
+      "text": "Prefiero hacer algo con lo que me siento confiado y relajado que intentar cosas que me resultan desafiantes y difíciles.",
+      "type": "SELF_EFFICACY_-"
+    },
+    {
+      "id": 10,
+      "text": "Con tan solo mirar las expresiones del rostro, soy capaz de reconocer las emociones que las personas están experimentando.",
+      "type": "EMPATHY_+"
+    },
+    {
+      "id": 11,
+      "text": "Cuando las cosas van mal, siento la urgente necesidad de rendirme.",
+      "type": "SELF_DISCIPLINE_-"
+    },
+    {
+      "id": 12,
+      "text": "Cuando surge algún problema, pienso en una cantidad de soluciones posibles antes de intentar solucionarlo.",
+      "type": "ANALYSIS_OF_CAUSES_+"
+    },
+    {
+      "id": 13,
+      "text": "Soy capaz de controlar el modo como me siento cuando la adversidad me golpea.",
+      "type": "CONTROL_OF_EMOTIONS_+"
+    },
+    {
+      "id": 14,
+      "text": "Lo que otras personas piensan de mi no influencia mi comportamiento.",
+      "type": "OVERCOME_FEARS_+"
+    },
+    {
+      "id": 15,
+      "text": "Cuando surge algún problema, me doy cuenta de los primeros pensamientos que surgen en mi mente al respecto.",
+      "type": "SELF_DISCIPLINE_+"
+    },
+    {
+      "id": 16,
+      "text": "Me siento más cómodo en situaciones en las que no soy el único responsable.",
+      "type": "OVERCOME_FEARS_-"
+    },
+    {
+      "id": 17,
+      "text": "Prefiero las situaciones en las que puedo depender de la capacidad de alguien más en lugar de en la mía propia.",
+      "type": "SELF_EFFICACY_-"
+    },
+    {
+      "id": 18,
+      "text": "Creo que es mejor creer que los problemas son controlables, incluso si ello no es siempre cierto",
+      "type": "OPTIMISM_+"
+    },
+    {
+      "id": 19,
+      "text": "Cuando surge un problema, me detengo a pensar con cuidado en las causas que lo han ocasionado, antes de tratar de resolverlo.",
+      "type": "ANALYSIS_OF_CAUSES_+"
+    },
+    {
+      "id": 20,
+      "text": "Tengo dudas sobre mi habilidad para resolver problemas en mi trabajo o en casa.",
+      "type": "SELF_EFFICACY_-"
+    },
+    {
+      "id": 21,
+      "text": "No puedo entender por qué las personas reaccionan del modo en que lo hacen.",
+      "type": "ANALYSIS_OF_CAUSES_+"
+    },
+    {
+      "id": 22,
+      "text": "Disfruto ocupándome de tareas rutinarias que no cambian.",
+      "type": "SELF_EFFICACY_-"
+    },
+    {
+      "id": 23,
+      "text": " Me dejo llevar por mis sentimientos.",
+      "type": "CONTROL_OF_EMOTIONS_-"
+    },
+    {
+      "id": 24,
+      "text": "Me resulta difícil entender por qué las personas sienten lo que sienten.",
+      "type": "EMPATHY_-"
+    },
+    {
+      "id": 25,
+      "text": "Soy bueno (a) identificando lo que pienso y el modo como ello afecta mi estado de ánimo.",
+      "type": "CONTROL_OF_EMOTIONS_+"
+    },
+    {
+      "id": 26,
+      "text": "Si alguien hace algo que me molesta, soy capaz de esperar hasta el momento apropiado en el que esté más (a) para discutirlo.",
+      "type": "CONTROL_OF_EMOTIONS_+"
+    },
+    {
+      "id": 27,
+      "text": "Cuando alguien reacciona de forma exagerada a un problema, creo que generalmente es porque están de mal humor ese día.",
+      "type": "OPTIMISM_+"
+    },
+    {
+      "id": 28,
+      "text": "Espero que me vaya bien en la mayoría de las cosas.",
+      "type": "SELF_EFFICACY_+"
+    },
+    {
+      "id": 29,
+      "text": "Las personas me buscan con frecuencia para que los ayude a resolver problemas.",
+      "type": "SELF_EFFICACY_+"
+    },
+    {
+      "id": 30,
+      "text": "No puedo entender por qué las personas reaccionan del modo en que lo hacen.",
+      "type": "EMPATHY_-"
+    },
+    {
+      "id": 31,
+      "text": "Mis emociones afectan mi capacidad de enfocarme en lo que se requiere hacer en casa, en el trabajo o en mis estudios.",
+      "type": "CONTROL_OF_EMOTIONS_-"
+    },
+    {
+      "id": 32,
+      "text": "El trabajo duro siempre trae recompensas",
+      "type": "OPTIMISM_+"
+    },
+    {
+      "id": 33,
+      "text": "Al completar una tarea, me preocupa que pueda ser evaluada en forma negativa",
+      "type": "OPTIMISM_-"
+    },
+    {
+      "id": 34,
+      "text": "Si alguien está triste, enojado o avergonzado, tengo una idea bastante clara de lo que puede estar pensando",
+      "type": "EMPATHY_+"
+    },
+    {
+      "id": 35,
+      "text": "No me gustan los nuevos desafíos",
+      "type": "OVERCOME_FEARS_-"
+    },
+    {
+      "id": 36,
+      "text": "No acostumbro planear con anticipación en mi trabajo, mis tareas escolares o mis finanzas.",
+      "type": "SELF_DISCIPLINE_-"
+    },
+    {
+      "id": 37,
+      "text": "Si un o una colega está molesto (a), tengo una idea bastante aproximada de los motivos",
+      "type": "EMPATHY_+"
+    },
+    {
+      "id": 38,
+      "text": "Prefiero hacer las cosa de forma espontánea más que planear con anticipación, incluso si ello ocasiona que no resulten del todo bien.",
+      "type": "SELF_DISCIPLINE_-"
+    },
+    {
+      "id": 39,
+      "text": "Creo que la mayor parte de problemas son causados por circunstancias que están fuera de mi control",
+      "type": "OPTIMISM_-"
+    },
+    {
+      "id": 40,
+      "text": "Veo los desafíos como un medio para aprender y mejorar",
+      "type": "OVERCOME_FEARS_+"
+    },
+    {
+      "id": 41,
+      "text": "Me dicen que malinterpreto eventos y situaciones",
+      "type": "ANALYSIS_OF_CAUSES_-"
+    },
+    {
+      "id": 42,
+      "text": "Si alguien está enojado conmigo, escucho lo que tienen que decirme antes de reaccionar",
+      "type": "SELF_DISCIPLINE_+"
+    },
+    {
+      "id": 43,
+      "text": "Cuando pienso acerca de mi futuro, encuentro difìcil imaginare a mi mismo (a) teniendo éxito",
+      "type": "OPTIMISM_-"
+    },
+    {
+      "id": 44,
+      "text": "Me dicen que adelanto conclusiones cuando surgen problemas",
+      "type": "ANALYSIS_OF_CAUSES_-"
+    },
+    {
+      "id": 45,
+      "text": "Me siento incómodo cuando me encuentro con gente nueva",
+      "type": "OVERCOME_FEARS_-"
+    },
+    {
+      "id": 46,
+      "text": "Es fácil para mi perder el hilo en un libro o una película",
+      "type": "EMPATHY_+"
+    },
+    {
+      "id": 47,
+      "text": "Creo en el refrán: “Más vale prevenir que lamentar”",
+      "type": "SELF_DISCIPLINE_+"
+    },
+    {
+      "id": 48,
+      "text": "En la mayor parte de situaciones, creo que soy bueno para identificar la causa real de los problemas.",
+      "type": "ANALYSIS_OF_CAUSES_+"
+    },
+    {
+      "id": 49,
+      "text": "Creo que tengo buenas habilidades para encarar problemas y que respondo bien ante la mayoría de desafìos",
+      "type": "SELF_EFFICACY_+"
+    },
+    {
+      "id": 50,
+      "text": "Mis seres queridos y amigos cercanos me dicen que no los entiendo",
+      "type": "EMPATHY_-"
+    },
+    {
+      "id": 51,
+      "text": "Estoy muy cómodo si permanezco dentro de mis rutinas establecidas",
+      "type": "OVERCOME_FEARS_-"
+    },
+    {
+      "id": 52,
+      "text": "Creo que es importante resolver los problemas lo más pronto posible, incluso si ello significa sacrificar una comprensión completa del problema",
+      "type": "ANALYSIS_OF_CAUSES_-"
+    },
+    {
+      "id": 53,
+      "text": "Cuando me enfrento a una situación difícil, confío en que me irá bien.",
+      "type": "OPTIMISM_+"
+    },
+    {
+      "id": 54,
+      "text": "Mis colegas y amigos me dicen que no escucho lo que ellos dicen",
+      "type": "EMPATHY_-"
+    },
+    {
+      "id": 55,
+      "text": "Si decido que quiero algo, salgo y lo compro de inmediato.",
+      "type": "SELF_DISCIPLINE_-"
+    },
+    {
+      "id": 56,
+      "text": "Cuando discuto un tema difícil con un colega o un familiar, soy capaz de mantener mis emociones bajo control",
+      "type": "CONTROL_OF_EMOTIONS_+"
+    }
+  ]
+}

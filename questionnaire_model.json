@@ -1,0 +1,28 @@
+{
+  "answers": [
+    {
+      "id": 1,
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "answer": 5
+    },
+    {
+      "id": 3,
+      "answer": 8
+    }
+  ],
+  "results": [
+    {
+      "itemName": "Control de emociones",
+      "score": 7,
+      "description": "Sobre el promedio"
+    },
+    {
+      "itemName": "Control de emociones",
+      "score": 7,
+      "description": "Sobre el promedio"
+    }
+  ]
+}
